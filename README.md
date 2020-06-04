@@ -1,5 +1,6 @@
-# Caracol
+# laberinto
 
-Juan Pablo Perea Hernandez 20162020074
+- Sebastian vallejo Rangel 20162020088
+- Juan Pablo Perea Hernandez 20162020074
 
-Empezando desde la posicion 0,0 se va imprimendo una matriz de n*n de tal manera que imita la forma de un caracol
+
