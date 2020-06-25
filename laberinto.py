@@ -14,6 +14,8 @@ def buscar_en_matriz(matriz,cont):
     if "X" in matriz[0]: 
         return (cont,matriz[0].index("X"))
     return buscar_en_matriz(matriz[1:],cont+1)
+#Ejemplo de movimiento
+"""
 #hace un movimiento a la derecha siempre y cuando
 #aun tenga espacio
 def der(mapa,pos):
@@ -38,5 +40,5 @@ def arr(mapa,pos):
 #print(arr(mapa(),buscar_en_matriz(mapa(),0)))
 
 #def solucion(mapa,pos):
-    
+""" 
 
